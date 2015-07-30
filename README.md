@@ -1,7 +1,8 @@
 # Starter gulp express
 
 A simple stack for express application with gulp
-Use BrowserSync for livereload
+
+Express (with EJS), BrowserSync, Nodemon...
 
 ## Requirements
 
@@ -11,8 +12,7 @@ Use BrowserSync for livereload
 
 1. Clone the repo: `git clone git@github.com:Tibze/starter-gulp-express.git`
 2. Install dependencies: `npm install`
-3. Change parameters in `config.json`
-4. Start : `gulp`
+3. Start : `gulp`
 
 ### Todo
 
