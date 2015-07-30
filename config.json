@@ -1,0 +1,11 @@
+{
+	"port":8080,
+	"path":"./app",
+	"starter":"./app/server.js",
+	"dist":"./dist",
+	"watch":[
+		"./app/views/**/*.*",
+		"./app/models/**/*.*",
+		"./app/controllers/**/*.*"
+	]
+}
