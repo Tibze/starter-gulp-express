@@ -1,2 +1,2 @@
 # gulp-fullstack
-stack Node / Express / Gulp
+stack Node / Express / Gulp / ..
