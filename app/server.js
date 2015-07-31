@@ -23,4 +23,4 @@ app.get('/about', function(req, res) {
 });
 
 app.listen(config.port);
-console.log('express start');
+console.log('express start !');
