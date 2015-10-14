@@ -18,3 +18,5 @@ Express (with EJS), BrowserSync, Nodemon...
 
 1. Catch errors
 2. Add a Sass task
+
+Pull request welcome !
